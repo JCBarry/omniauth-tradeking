@@ -6,8 +6,8 @@ Gem::Specification.new do |gem|
   gem.version     = OmniAuth::TradeKing::VERSION
   gem.homepage    = 'https://github.com/jcbarry/omniauth-tradeking'
 
-  gem.author      = "Steve Agalloco"
-  gem.email       = 'steve.agalloco@gmail.com'
+  gem.author      = ["Steve Agalloco", "Jason Barry"]
+  gem.email       = ['steve.agalloco@gmail.com', 'jay@jcbarry.com']
   gem.description = 'TradeKing strategy for OmniAuth 1.0'
   gem.summary     = gem.description
 
